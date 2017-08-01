@@ -51,6 +51,7 @@
 		2D46A2811F3059860071ADF0 /* PropertyInProtocolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PropertyInProtocolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D46A2851F3059860071ADF0 /* PropertyInProtocolUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PropertyInProtocolUITests.m; sourceTree = "<group>"; };
 		2D46A2871F3059860071ADF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D46A2931F3059DE0071ADF0 /* Name.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Name.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 		2D46A25F1F3059850071ADF0 /* PropertyInProtocol */ = {
 			isa = PBXGroup;
 			children = (
+				2D46A2931F3059DE0071ADF0 /* Name.h */,
 				2D46A2631F3059850071ADF0 /* AppDelegate.h */,
 				2D46A2641F3059850071ADF0 /* AppDelegate.m */,
 				2D46A2661F3059850071ADF0 /* ViewController.h */,
